@@ -23,8 +23,8 @@
 
 ### Professional Skills
 
-1. [Machine Learning](Professional_Skills_0003\Machine_Learning_Skills_%232_0003.md)
+1. [Machine Learning](Professional_Skills_0003/Machine_Learning_Skills_%232_0003.md)
 
-2. [Programming Language](Professional_Skills_0003\Programming_Language_%232_0002.md)
+2. [Programming Language](Professional_Skills_0003/Programming_Language_%232_0002.md)
 
-3. [Web Development](Professional_Skills_0003\Web_development_Skills_%232_0003.md)
+3. [Web Development](Professional_Skills_0003/Web_development_Skills_%232_0003.md)

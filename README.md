@@ -15,11 +15,11 @@
 
 ### General Skills
 
-1. [Communication Skills](General_Skills_0003\Communication_%231_0003.md)
+1. [Communication Skills](General_Skills_0003/Communication_%231_0003.md)
 
-2. [Negotiation Skills](General_Skills_0003\Negotiation_Skills_%231_0003.md)
+2. [Negotiation Skills](General_Skills_0003/Negotiation_Skills_%231_0003.md)
 
-3. [Social Skills](General_Skills_0003\Social_Skills_%231_0003.md)
+3. [Social Skills](General_Skills_0003/Social_Skills_%231_0003.md)
 
 ### Professional Skills
 
